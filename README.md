@@ -6,10 +6,10 @@ Our project is mainly a comparison of IncrptionNetV3 deep learning model, Mobile
 
 **Working procedure:**
 
-**Step 1: **
+**Step 1:**
 
 Download the dataset from the given link: https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
 
-**Step 2: **
+**Step 2:**
 
 Load the three workbooks in local anaconda jupyter notebook or in Google colab.
