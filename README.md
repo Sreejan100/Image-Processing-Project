@@ -30,7 +30,7 @@ Run the code cells one by one and see the result
 
 **Software Requirements:**
 
-Google Colab or Anaconda software with Tensoflow, keras and opencv libraries installed.
+Google Colab or Anaconda software with Tensoflow(Version - 2.5.x), keras(version - 2.7.x) and opencv(4.5.5) libraries installed.
 
 **Hardware Requirements:**
 
