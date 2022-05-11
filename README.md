@@ -25,3 +25,13 @@ Create new folders for storing the augmented images
 **Step 5:**
 
 Run the code cells one by one and see the result
+
+
+
+**Software Requirements:**
+
+Google Colab or Anaconda software with Tensoflow, keras and opencv libraries installed.
+
+**Hardware Requirements:**
+
+Good Graphical Processing Unit(GPU).
